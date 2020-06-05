@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string>Facebook</string>
+		<key>Image</key>
+		<string>SocialIcon1</string>
+		<key>Url</key>
+		<string>https://www.facebook.com</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Twitter</string>
+		<key>Image</key>
+		<string>SocialIcon2</string>
+		<key>Url</key>
+		<string>https://www.twitter.com</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Google+</string>
+		<key>Image</key>
+		<string>SocialIcon3</string>
+		<key>Url</key>
+		<string>https://www.googleplus.com</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>LinkedIn</string>
+		<key>Image</key>
+		<string>SocialIcon4</string>
+		<key>Url</key>
+		<string>https://www.linkedin.com</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Youtube</string>
+		<key>Image</key>
+		<string>SocialIcon5</string>
+		<key>Url</key>
+		<string>https://www.youtube.com</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Website</string>
+		<key>Image</key>
+		<string>SocialIcon6</string>
+		<key>Url</key>
+		<string>https://www.google.com</string>
+	</dict>
+</array>
+</plist>
